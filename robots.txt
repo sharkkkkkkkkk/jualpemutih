@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+# Link ke Sitemap Anda
+Sitemap: https://jual-paket-pemutih-badan.vercel.app/sitemap.xml
